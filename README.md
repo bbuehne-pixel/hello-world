@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello,
+
+I am Blake, I am a huge nerd.
